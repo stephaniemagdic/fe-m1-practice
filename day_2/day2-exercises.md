@@ -1,6 +1,6 @@
 Answer these questions about the reading in your day2-exercises.md file:
 
-#Chapters 2  & 3 HTML
+# Chapters 2  & 3 HTML
 
 There are three main types of lists in HTML: ordered, unordered, and definition. What are their differences?
 - _ordered lists_: lists where each item is numbered
@@ -38,7 +38,7 @@ See below for an example.
 <p><a href="#top">Top</a></p>
 ```
 
-##Chapters 10, 11, 12 CSS
+## Chapters 10, 11, 12 CSS
 
 What is the purpose of CSS?
 
