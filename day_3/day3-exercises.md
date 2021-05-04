@@ -2,11 +2,11 @@
 
 If you're using an input element in a form, what attribute controls the behavior of that input?
 
-- I am not sure if I am reading this question right, but I believe the type attribute controls the behavior of that input. It allows you to choose what kind of <input> element to display.
+-I am not sure if I am reading this question right, but I believe the type attribute controls the behavior of that input. It allows you to choose what kind of <input> element to display.
 
 
 What element is used to create a dropdown list?
-- To create a dropdown list, a <select> element is used.
+-To create a dropdown list, a <select> element is used.
 
 
 If you're using an input element to send form data to a server, what should the type attribute be set to?
@@ -21,15 +21,15 @@ What element is used to group similar form items together?
 
 
 Describe the differences between border, margin, and padding.
-- _border_:The border separates the edge of one box from another (The box: remember that CSS treats each HTML element as if it lives in its own box).
+-_border_:The border separates the edge of one box from another (The box: remember that CSS treats each HTML element as if it lives in its own box).
 - _margin_:Margins sit outside the edge of the border and it creates a gap between the borders of two adjacent boxes (if you want it to)
-- _padding_:Padding is the space between the border of the box and any content contained within it
+-_padding_:Padding is the space between the border of the box and any content contained within it
 
 (pg. 307)
 
 
 For a CSS rule padding: 1px 2px 5px 10px, what sides of the content box does each pixel value correspond to?
-- CSS rule padding: padding-top, padding-right, padding-bottom, padding-left (clockwise from the top)
+-CSS rule padding: padding-top, padding-right, padding-bottom, padding-left (clockwise from the top)
 
 
 Describe the difference between block-level and inline elements.
