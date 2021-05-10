@@ -12,7 +12,7 @@ Post links to the sites and brief descriptions in your day7-exercises.md file.
 
  - From experience poor usability are many school websites: Most of the time there are user errors and no information that catches those errors to tell the users their mistakes. There are also often not enough information to find the pages you need. IE it is hard to find the person or email address you are looking for and once you do it is hard to access that information to contact the person.
 
- - [trello](https://trello.com}: On the other hand, trello is very usable. It will correct many of your mistakes. Popup boxes will make sure you want to complete actions and prompts and events will help to move you along to create cards, delete cards, add notes on cards, etc. If you don't know exactly how to do one of these steps, trello will make assumptions and help you along in the process, making the site very usable.
+ - [trello](https://trello.com): On the other hand, trello is very usable. It will correct many of your mistakes. Popup boxes will make sure you want to complete actions and prompts and events will help to move you along to create cards, delete cards, add notes on cards, etc. If you don't know exactly how to do one of these steps, trello will make assumptions and help you along in the process, making the site very usable.
 
 3. Design: Do users think it looks good? Do they trust it immediately?
 
@@ -27,4 +27,4 @@ Post links to the sites and brief descriptions in your day7-exercises.md file.
 5. Analysis:
 - [kaiser permanente](https://healthy.kaiserpermanente.org/colorado/front-door): At the very bottom website feedback is collected if you choose.
 It is hard to say which websites do not have good anyalysis without seeing its code. I see that analysis includes tracking information about how the user is using the page to improve the website/code, such as what is clicked on, time on page, views, how the page is navigated.
-- (http://www.pandminc.com/) : I would say a website where it is not easy to submit a complaint like coursera or an error or to get in contact with someone has poor analysis. I would take this random website and assume it does not have good analysis as it does not seem to collect information from the user at least by what we can see as the user.
+- [pandinc](http://www.pandminc.com/) : I would say a website where it is not easy to submit a complaint like coursera or an error or to get in contact with someone has poor analysis. I would take this random website and assume it does not have good analysis as it does not seem to collect information from the user at least by what we can see as the user.
