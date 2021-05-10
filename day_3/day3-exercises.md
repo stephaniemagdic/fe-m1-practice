@@ -6,9 +6,7 @@ If you're using an input element in a form, what attribute controls the behavior
 
 What element is used to create a dropdown list?
 
-
 * To create a dropdown list, a <select> element is used. If you're using an input element to send form data to a server, what should the type attribute be set to?
-
 * I am not sure if I am reading this question correctly either, but I believe that when you are using an input element and we are sending information to the server we need to first make sure the action attribute's value is the URL for the page on the server that will receive the information in the form when it is submitted and then the method would be a get or post depending on several factors. (pg.151)
 
 
