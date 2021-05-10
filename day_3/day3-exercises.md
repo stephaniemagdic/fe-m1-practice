@@ -2,11 +2,11 @@
 
 If you're using an input element in a form, what attribute controls the behavior of that input?
 
-* I am not sure if I am reading this question right, but I believe the type attribute controls the behavior of that input. It allows you to choose what kind of <input> element to display.
+* I am not sure if I am reading this question right, but I believe the type attribute controls the behavior of that input. It allows you to choose what kind of input element to display.
 
 What element is used to create a dropdown list?
 
-*  To create a dropdown list, a <select> element is used. If you're using an input element to send form data to a server, what should the type attribute be set to?
+*  To create a dropdown list, a select element is used. If you're using an input element to send form data to a server, what should the type attribute be set to?
 *  I am not sure if I am reading this question correctly either, but I believe that when you are using an input element and we are sending information to the server we need to first make sure the action attribute's value is the URL for the page on the server that will receive the information in the form when it is submitted and then the method would be a get or post depending on several factors. (pg.151)
 
 
@@ -33,8 +33,8 @@ For a CSS rule padding: 1px 2px 5px 10px, what sides of the content box does eac
 Describe the difference between block-level and inline elements.
 - Block-level elements start on a new line and act as the main building blocks of any layout while inline boxes flow between surrounding texts.
 
-  * Examples of block level elements include <h1>, <p>, <ul>, and <li>.
-  * Examples of inline elements include <img>, <b> <i>.
+  * Examples of block level elements include h1, p, ul, and li.
+  * Examples of inline elements include img, b, i.
 
 
 
