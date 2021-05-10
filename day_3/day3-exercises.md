@@ -6,6 +6,7 @@ If you're using an input element in a form, what attribute controls the behavior
 
 What element is used to create a dropdown list?
 
+
 -To create a dropdown list, a <select> element is used.
 
 
